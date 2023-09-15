@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# Development
+.vscode/
+.idea/
+.DS_Store
+
+# Ignore built or compiled files
+dist/
+build/

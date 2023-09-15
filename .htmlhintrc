@@ -1,0 +1,7 @@
+module.exports = {
+plugins: ['html'],
+extends:'eslint:recommended',
+rules: {
+    // Configure HTML linting rules here
+},
+};
