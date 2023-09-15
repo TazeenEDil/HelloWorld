@@ -10,4 +10,4 @@ npm-debug.log
 # Ignore built or compiled files
 dist/
 build/
-test.md
+test.md/
